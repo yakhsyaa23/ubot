@@ -1,1 +1,1 @@
-worker: python3 -m tomimusic
+worker: bash start
